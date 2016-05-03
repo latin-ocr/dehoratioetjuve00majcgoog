@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dehoratioetjuve00majcgoog_0006.png"; bbox 0 0 2976 4808; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 20 680 1366 971">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 20 632 1467 1008">
+     <span class='ocr_line' id='line_1_1' title="bbox 20 680 1366 971; baseline -0.006 -7"><span class='ocrx_word' id='word_1_1' title='bbox 20 788 22 792; x_wconf 0' lang='lat' dir='ltr'> </span> <span class='ocrx_word' id='word_1_2' title='bbox 285 735 1271 971; x_wconf 47' lang='lat' dir='ltr'><strong>mmmmm?</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1363 680 1366 687; x_wconf 73' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 135 1490 1414 2171">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 135 1405 1414 2171">
+     <span class='ocr_line' id='line_1_2' title="bbox 135 1490 1414 1709; baseline -0.002 -38"><span class='ocrx_word' id='word_1_4' title='bbox 135 1503 195 1673; x_wconf 83' lang='lat' dir='ltr'><strong>k.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 237 1501 298 1669; x_wconf 80' lang='lat' dir='ltr'><strong>k.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 354 1497 673 1669; x_wconf 54' lang='lat' dir='ltr'><strong>zweiien·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 709 1490 1414 1709; x_wconf 66' lang='lat' dir='ltr'><strong>[lber-Gymnasium</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 338 1782 1376 2171; baseline 0.011 -324"><span class='ocrx_word' id='word_1_8' title='bbox 338 1842 340 1847; x_wconf 10' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_9' title='bbox 510 1981 580 2068; x_wconf 65' lang='lat' dir='ltr'>m</span> <span class='ocrx_word' id='word_1_10' title='bbox 642 1904 1024 2171; x_wconf 34' lang='lat' dir='ltr'>LEMBERG</span> <span class='ocrx_word' id='word_1_11' title='bbox 1374 1782 1376 1786; x_wconf 34' lang='lat'><em>1</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 408 2356 1347 2496">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 408 2356 1347 2496">
+     <span class='ocr_line' id='line_1_4' title="bbox 408 2356 1347 2496; baseline -0.002 -36"><span class='ocrx_word' id='word_1_12' title='bbox 408 2357 677 2462; x_wconf 74' lang='lat' dir='ltr'><strong>surdas</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 722 2356 1140 2463; x_wconf 67' lang='lat' dir='ltr'><strong>schal-sam·</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1345 2492 1347 2496; x_wconf 6' lang='lat' dir='ltr'>y</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1492 4808">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1492 4808">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1492 4808; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1492 4808; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

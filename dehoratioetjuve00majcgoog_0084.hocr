@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dehoratioetjuve00majcgoog_0084.png"; bbox 0 0 2880 5242; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 909 2256 1390 2555">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 909 2256 1390 2555">
+     <span class='ocr_line' id='line_1_1' title="bbox 1025 2256 1390 2377; baseline 0.005 -22"><span class='ocrx_word' id='word_1_1' title='bbox 1025 2289 1092 2356; x_wconf 81' lang='lat' dir='ltr'>Der</span> <span class='ocrx_word' id='word_1_2' title='bbox 1113 2288 1198 2357; x_wconf 81' lang='lat' dir='ltr'>Ohor</span> <span class='ocrx_word' id='word_1_3' title='bbox 1221 2290 1311 2377; x_wconf 77' lang='lat' dir='ltr'>giebt</span> <span class='ocrx_word' id='word_1_4' title='bbox 1333 2256 1390 2369; x_wconf 52' lang='lat'>⁸253</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 918 2377 1315 2458; baseline 0.002 -14"><span class='ocrx_word' id='word_1_5' title='bbox 918 2377 1044 2458; x_wconf 82' lang='lat' dir='ltr'><strong>stellen,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1071 2379 1147 2447; x_wconf 86' lang='lat' dir='ltr'><strong>Oed.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1177 2382 1224 2447; x_wconf 87' lang='lat' dir='ltr'>sei</span> <span class='ocrx_word' id='word_1_8' title='bbox 1257 2382 1315 2447; x_wconf 81' lang='lat' dir='ltr'>der</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 909 2462 1390 2555; baseline 0.008 -21"><span class='ocrx_word' id='word_1_9' title='bbox 909 2468 1033 2555; x_wconf 73' lang='lat' dir='ltr'>Apollo</span> <span class='ocrx_word' id='word_1_10' title='bbox 1057 2469 1134 2537; x_wconf 83' lang='lat' dir='ltr'>oder</span> <span class='ocrx_word' id='word_1_11' title='bbox 1156 2470 1293 2537; x_wconf 80' lang='lat' dir='ltr'><strong>Hermes</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1314 2462 1390 2545; x_wconf 56' lang='lat' dir='ltr'>vo&#39;}</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1444 5242">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1444 5242">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1444 5242; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1444 5242; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
